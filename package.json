@@ -1,11 +1,24 @@
 {
-  "author": "BWsix",
+  "name": "explode.js",
+  "description": "Art is an explosion, explode.js is a JavaScript implementation of php's explode utility.",
+  "version": "1.0.0",
+  "author": "BWsix(VFLC)",
+  "keywords": [
+    "explode",
+    "php"
+  ],
+  "homepage": "https://github.com/BWsix/explode.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BWsix/explode.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BWsix/explode.js/issues"
+  },
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/lib.esm.js",
-  "name": "@vflc/explode.js",
   "typings": "dist/index.d.ts",
-  "version": "0.1.0",
   "devDependencies": {
     "@size-limit/preset-small-lib": "^7.0.8",
     "husky": "^8.0.1",
