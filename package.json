@@ -3,7 +3,7 @@
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/lib.esm.js",
-  "name": "@VFLC/explode.js",
+  "name": "@vflc/explode.js",
   "typings": "dist/index.d.ts",
   "version": "0.1.0",
   "devDependencies": {
