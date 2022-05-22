@@ -1,7 +1,7 @@
 {
   "name": "explode.js",
   "description": "Art is an explosion, explode.js is a JavaScript implementation of php's explode utility.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "BWsix(VFLC)",
   "keywords": [
     "explode",
