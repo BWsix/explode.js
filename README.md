@@ -10,15 +10,15 @@ explode — Split a string by a string
 ## Installation
 
 ```bash
-yarn add @vflc/explode.js
+yarn add explode.js
 or
-npm install @vflc/explode.js
+npm install explode.js
 ```
 
 ## Examples
 
 ```ts
-import { explode } from '@vflc/explode.js';
+import { explode } from 'explode.js';
 
 explode(' ', 'Art is an explosion'); // ['Art', 'is', 'an', 'explosion']
 explode(',', 'Art is an explosion'); // ['Art is an explosion']
