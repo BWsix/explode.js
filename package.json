@@ -20,7 +20,7 @@
   "module": "dist/lib.esm.js",
   "typings": "dist/index.d.ts",
   "devDependencies": {
-    "@size-limit/preset-small-lib": "8.1.1",
+    "@size-limit/preset-small-lib": "8.1.2",
     "husky": "8.0.2",
     "size-limit": "8.1.1",
     "tsdx": "0.14.1",
